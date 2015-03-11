@@ -1,0 +1,5 @@
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+1.	Git is made for programmers that work on multiple files.
+2.	Very often projects have more than one programmer working on the software
+3.	Google Doc is not meant to work with more people
